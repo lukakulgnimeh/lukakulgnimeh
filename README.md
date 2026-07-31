@@ -5,9 +5,13 @@
 <p align="center">
   Hello there! I'm Luka 👋
   <br /><br />
-  Mathematician by mindset.
+  Mathematician by education.
   <br />
-  System thinker and optimizer by passion.
+  Systems thinker by nature.
   <br />
-  My motivation? I enjoy breaking down complex problems into understandable structures.
+  Passionate about understanding, designing and improving complex systems.
+  <br />
+  Driven by the challenge of turning difficult problems into understandable structures.
+  <br /><br />
+  Currently exploring AI systems, agent architectures and intelligent automation.
 </p>
